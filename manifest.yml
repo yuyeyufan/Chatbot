@@ -1,8 +1,8 @@
 ---
 applications:
-- name: webchatbot
+- name: chat lois
   path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
-    CONVERSATION_WORKSPACE_ID: 2e38d5ef-7506-4e38-804e-e83f3cbe6926
-    CAR_SERVICE_HOST: webchatbotcar.mybluemix.net
+    CONVERSATION_WORKSPACE_ID: 8bfddff4-7092-457c-abe0-094eee5cffc0
+    CAR_SERVICE_HOST: bluemix_test_lois.mybluemix.net
