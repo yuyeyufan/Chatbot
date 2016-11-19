@@ -5,4 +5,4 @@ applications:
   buildpack: liberty-for-java
   env:
     CONVERSATION_WORKSPACE_ID: 8bfddff4-7092-457c-abe0-094eee5cffc0
-    CAR_SERVICE_HOST: bluemix_test_lois.mybluemix.net
+    CAR_SERVICE_HOST: bluemix-lois.mybluemix.net
